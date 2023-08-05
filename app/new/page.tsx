@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { Alert } from "flowbite-react";
 
 export default function New() {
   return (
