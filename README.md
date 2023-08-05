@@ -19,7 +19,7 @@ This project uses:
 - [Next.js 13](https://nextjs.org/) for server side rendering and routing and [React 18](https://react.dev/blog/2022/03/29/react-v18) server components
 - [TypeScript](https://www.typescriptlang.org/) for type safety
 - [TailwindCSS](https://tailwindcss.com/) for styling
-- [React Aria](https://react-spectrum.adobe.com/react-aria/) for accessibility and component composition
+- [React Aria](https://react-spectrum.adobe.com/react-aria/) for accessibility and building robust components
 - [Storybook](https://storybook.js.org/) for building and documenting components
   - GitHub Actions for [deploying Storybook to GitHub Pages](.github/workflows/deploy-storybook)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) and [Jest](https://jestjs.io/) for testing
