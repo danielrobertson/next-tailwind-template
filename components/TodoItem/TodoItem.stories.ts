@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from "@storybook/react";
 
-import { TodoItem } from "../components/TodoItem";
+import { TodoItem } from "./TodoItem";
 
 const meta: Meta<typeof TodoItem> = {
   title: "TodoItem",

@@ -1,4 +1,4 @@
-This application is [live on Vercel](https://todo-learning-next13-l3y230180-danielrobertson.vercel.app/)! 🚀
+This application is [live on Vercel here!](https://todo-learning-next13-l3y230180-danielrobertson.vercel.app/) 🚀
 
 ## Getting Started
 
@@ -24,6 +24,10 @@ This project uses:
   - GitHub Actions for [deploying Storybook to GitHub Pages](.github/workflows/deploy-storybook)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) and [Jest](https://jestjs.io/) for testing
 - eslint for static code analysis and linting
+
+### Testing
+
+Run tests with `npm run test`
 
 ### Storybook
 
