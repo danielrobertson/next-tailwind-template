@@ -28,7 +28,7 @@ export default async function Home() {
         Add
       </Link>
       <h2 className="mt-3">
-        Example of no-cache, current time Chicago: {datetime}
+        Example of no-cache server function, current time Chicago: {datetime}
       </h2>
       <ul className="mt-5">
         {todos.map((todo) => (

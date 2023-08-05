@@ -18,10 +18,7 @@ export default function RootLayout({
   const classes = classnames("text-gray-900", inter.className);
   return (
     <html lang="en">
-      <body className={classes}>
-        {/* <DarkModeButton /> */}
-        {children}
-      </body>
+      <body className={classes}>{children}</body>
     </html>
   );
 }
