@@ -1,4 +1,4 @@
-🎉 Live URL on Vercel: todo-learning-next13-l3y230180-danielrobertson.vercel.app
+This application is [live on Vercel](https://todo-learning-next13-l3y230180-danielrobertson.vercel.app/)! 🚀
 
 ## Getting Started
 
@@ -29,7 +29,7 @@ A live hosted Storybook is available via a [GitHub Action](.github/workflows/dep
 
 ## Deployment on Vercel
 
-This application is live on Vercel: todo-learning-next13-l3y230180-danielrobertson.vercel.app
+This application is live on Vercel: https://todo-learning-next13-l3y230180-danielrobertson.vercel.app
 
 ### Web Core Vitals
 
