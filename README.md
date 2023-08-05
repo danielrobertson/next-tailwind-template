@@ -23,6 +23,7 @@ This project uses:
 - [Storybook](https://storybook.js.org/) for building and documenting components
   - GitHub Actions for [deploying Storybook to GitHub Pages](.github/workflows/deploy-storybook)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) and [Jest](https://jestjs.io/) for testing
+  - Speedy Web Compiler over because _[it's fast](https://www.jameslmilner.com/posts/speeding-up-typescript-jest-tests/#:~:text=This%20indicates%20that%20swc%2Fjest,fast%20feedback%20on%20code%20changes.)_ and I'm impatient with long test suites
 - eslint for static code analysis and linting
 
 ### Testing

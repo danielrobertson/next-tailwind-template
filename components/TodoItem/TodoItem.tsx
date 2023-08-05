@@ -24,6 +24,7 @@ export function TodoItem({ id, todo, completed: completedProp, userId }: Todo) {
         checked={completed}
         onChange={handleOnChange}
         className="peer w-4 h-4 text-blue-600 rounded"
+        data-testid="todo-checkbox"
       />
       <label
         htmlFor={`${id}`}
